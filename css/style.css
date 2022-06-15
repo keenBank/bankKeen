@@ -68,7 +68,7 @@ input {
   height: 60px;
   padding: 10px;
   margin: 0.5em 0;
-  font-size: 20px;
+  font-size: 17px;
   color: grey;
 }
 
@@ -76,7 +76,7 @@ button {
   cursor: pointer;
   margin-top: 0.5em;
   height: 60px;
-  font-size: 20px;
+  font-size: 17px;
   background-color: #dbb659;
   outline: none;
   border: none;
@@ -85,7 +85,7 @@ button {
   display: flex;
 }
 .signup-icon {
-  margin-left: 20px;
+  margin-left: 17px;
 }
 
 .info,
@@ -116,7 +116,7 @@ button {
   padding: 1em 6em;
   margin-bottom: 2em;
   border-radius: 5px;
-  font-size: 20px;
+  font-size: 17px;
   background-color: #dbb659;
 }
 /* --- account --- */
@@ -126,7 +126,7 @@ button {
 }
 .types div {
   padding: 1em 2em;
-  font-size: 20px;
+  font-size: 17px;
 }
 .types div:first-of-type {
   border-bottom: 2px solid #dbb659;
@@ -249,7 +249,7 @@ button {
 }
 
 .transaction div {
-  font-size: 20px;
+  font-size: 17px;
 }
 .nd {
   text-align: center;
@@ -260,7 +260,7 @@ button {
 }
 .time {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 17px;
   line-height: 30px;
 }
 
