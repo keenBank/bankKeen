@@ -21,8 +21,10 @@
         const password = document.querySelector("#password").value;
         if (value == "29830081399146103" && password == "1998") {
           window.location = "/keenbank/account.html";
-        } else {
-          alert("الرمز مكون من أربع خانات فقط");
+        } else if (value != "29830081399146103") {
+          alert("عزيزي المستفيد تاكد من صحة رقم البطاقة");
+        } else if (password != "1998") {
+          alert("عزيزي المستفيد الرمز مكون من اربع خانات فقط حاول مجدداً");
         }
       }
     </script>
