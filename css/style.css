@@ -19,7 +19,7 @@ main {
   min-height: 100vh;
 }
 p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .image {
@@ -258,7 +258,7 @@ button {
   text-align: center;
 }
 .number {
-  font-size: 40px;
+  font-size: 35px;
   color: #dbb659;
 }
 .time {
@@ -273,12 +273,12 @@ button {
 
 .urgent {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   color: grey;
 }
 .sum {
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
   margin: 5px 0;
   color: brown;
 }
