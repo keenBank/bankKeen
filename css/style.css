@@ -19,7 +19,7 @@ main {
   min-height: 100vh;
 }
 p {
-  font-size: 19px;
+  font-size: 18px;
 }
 
 .image {
@@ -273,12 +273,12 @@ button {
 
 .urgent {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
   color: grey;
 }
 .sum {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
   margin: 5px 0;
   color: brown;
 }
